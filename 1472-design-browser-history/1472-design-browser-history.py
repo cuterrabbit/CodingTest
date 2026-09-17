@@ -1,36 +1,27 @@
-class ListNode(object):
+class Node(object):
     def __init__(self, val=0, next=None, prev=None):
-        self.val = val
-        self.next = next
-        self.prev = prev
+        self.val, self.next, self.prev = val, next, prev
 
+class BrowserHistory(object):
+    def __init__(self, homepage):
+        self.head = self.current = Node(val = homepage)
 
-class BrowserHistory:
-
-    def __init__(self, homepage: str):
-        self.head = self.current = ListNode(val=homepage)
-
-    def visit(self, url: str) -> None:
-        self.current.next = ListNode(val=url, prev=self.current)
+    def visit(self, url):
+        self.current.next = Node(val = url, prev=self.current)
         self.current = self.current.next
-        # 참조되지 않는 주소값은 삭제됨(GC가 삭제함)
-        
-    def back(self, steps: int) -> str:
-        while steps > 0 and self.current.prev != None:
-            steps -= 1
+
+    def back(self, steps):
+        while True:
+            if steps == 0 or self.current.prev is None:
+                break
             self.current = self.current.prev
+            steps -=1
         return self.current.val
-        
-    def forward(self, steps: int) -> str:
-        while steps > 0 and self.current.next != None:
-            steps -= 1
+    
+    def forward(self, steps):
+        while True:
+            if steps == 0 or self.current.next is None:
+                break
             self.current = self.current.next
+            steps -= 1
         return self.current.val
-        
-
-
-# Your BrowserHistory object will be instantiated and called as such:
-# obj = BrowserHistory(homepage)
-# obj.visit(url)
-# param_2 = obj.back(steps)
-# param_3 = obj.forward(steps)
