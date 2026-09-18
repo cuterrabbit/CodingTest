@@ -35,6 +35,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0020-valid-parentheses](https://github.com/cuterrabbit/CodingTest/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/cuterrabbit/CodingTest/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cuterrabbit/CodingTest/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/cuterrabbit/CodingTest/tree/main/0567-permutation-in-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0001-two-sum](https://github.com/cuterrabbit/CodingTest/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/cuterrabbit/CodingTest/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cuterrabbit/CodingTest/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/cuterrabbit/CodingTest/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +55,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cuterrabbit/CodingTest/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/cuterrabbit/CodingTest/tree/main/0567-permutation-in-string/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/cuterrabbit/CodingTest/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
