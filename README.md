@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cuterrabbit/CodingTest/tree/main/0001-two-sum/) | Easy |
+| [0739-daily-temperatures](https://github.com/cuterrabbit/CodingTest/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/cuterrabbit/CodingTest/tree/main/1472-design-browser-history/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/cuterrabbit/CodingTest/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/cuterrabbit/CodingTest/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/cuterrabbit/CodingTest/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -60,4 +62,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/cuterrabbit/CodingTest/tree/main/0567-permutation-in-string/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/cuterrabbit/CodingTest/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
