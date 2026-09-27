@@ -1,18 +1,16 @@
 def solution(citations):
     answer = 0
-    
-    h_cita = []
-    m = max(citations)
-    
-    for i in range(m + 1):
-        n = 0 
+    papers = []
+    citations.sort()
+    for h in range(citations[-1]+1):
+        n = 0
         for citation in citations:
-            if i <= citation:
+            if h <= citation:
                 n += 1
-        h_cita.append(n)
-    
-    for idx, h_index in enumerate(h_cita):
-        if idx <= h_index:
-            answer = idx  
-    
+        papers.append(n)
+            
+    for idx,paper in enumerate(papers):
+        if idx <= paper:
+            answer = idx
+        
     return answer  
