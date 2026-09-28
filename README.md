@@ -72,4 +72,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/cuterrabbit/CodingTest/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/cuterrabbit/CodingTest/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
