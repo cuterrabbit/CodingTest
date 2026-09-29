@@ -19,6 +19,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/cuterrabbit/CodingTest/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/cuterrabbit/CodingTest/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0739-daily-temperatures](https://github.com/cuterrabbit/CodingTest/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/cuterrabbit/CodingTest/tree/main/1472-design-browser-history/) | Medium |
 ## Design
@@ -91,14 +92,17 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/cuterrabbit/CodingTest/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cuterrabbit/CodingTest/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/cuterrabbit/CodingTest/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cuterrabbit/CodingTest/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/cuterrabbit/CodingTest/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cuterrabbit/CodingTest/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
