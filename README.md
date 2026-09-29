@@ -80,10 +80,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/cuterrabbit/CodingTest/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/cuterrabbit/CodingTest/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/cuterrabbit/CodingTest/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -112,4 +114,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cuterrabbit/CodingTest/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/cuterrabbit/CodingTest/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
