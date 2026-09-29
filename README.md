@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cuterrabbit/CodingTest/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/cuterrabbit/CodingTest/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
 | [0739-daily-temperatures](https://github.com/cuterrabbit/CodingTest/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/cuterrabbit/CodingTest/tree/main/1472-design-browser-history/) | Medium |
 ## Linked List
@@ -49,12 +50,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0001-two-sum](https://github.com/cuterrabbit/CodingTest/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/cuterrabbit/CodingTest/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/cuterrabbit/CodingTest/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cuterrabbit/CodingTest/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/cuterrabbit/CodingTest/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/cuterrabbit/CodingTest/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +79,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/cuterrabbit/CodingTest/tree/main/0009-palindrome-number/) | Easy |
+| [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
