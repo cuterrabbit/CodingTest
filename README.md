@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cuterrabbit/CodingTest/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/cuterrabbit/CodingTest/tree/main/0014-longest-common-prefix/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/cuterrabbit/CodingTest/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
 | [0739-daily-temperatures](https://github.com/cuterrabbit/CodingTest/tree/main/0739-daily-temperatures/) | Medium |
@@ -37,6 +38,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/cuterrabbit/CodingTest/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/cuterrabbit/CodingTest/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/cuterrabbit/CodingTest/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cuterrabbit/CodingTest/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -118,4 +120,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/cuterrabbit/CodingTest/tree/main/0069-sqrtx/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/cuterrabbit/CodingTest/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
