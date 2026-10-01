@@ -12,6 +12,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
 | [0739-daily-temperatures](https://github.com/cuterrabbit/CodingTest/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/cuterrabbit/CodingTest/tree/main/1472-design-browser-history/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cuterrabbit/CodingTest/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,11 +57,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cuterrabbit/CodingTest/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/cuterrabbit/CodingTest/tree/main/0567-permutation-in-string/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cuterrabbit/CodingTest/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/cuterrabbit/CodingTest/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/cuterrabbit/CodingTest/tree/main/0268-missing-number/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cuterrabbit/CodingTest/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
